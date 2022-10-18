@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Instructor</b> <a href=https://www.user.tu-berlin.de/pbideau/>Pia Bideau</a>. <b>Office</b> MAR 6.052. <b>Office hour</b> Friday 11am-12am. 
+subtitle: <b>Instructor</b> <a href=https://www.user.tu-berlin.de/pbideau/>Pia Bideau</a>. <b>Office</b> MAR 6.052. <b>Office hour</b> Friday 11am-12am.
+logo: Alle-H%C3%A4userlogos-Leiste_3000px.png
 
 profile:
   align: right
@@ -21,11 +22,16 @@ social: true  # includes social icons at the bottom of the page
 
 Current computer vision methods aim at processing an entire image at once. Prior work however has shown that the approach “one image at once” might not be the most effective. Instead, biological vision explores a scene while consecutively fixating on different regions in the scene. How does such active scene exploration lead to an improved understanding of objects and their relative locations? In this research group we will revise existing computer vision strategies for depth perception based on frame-based videos and event camera data. We then take ideas from biological vision to build a system that extracts depth information (distance between observer and object) through distinct motion behaviors.
 
+***
+
+- **Time:** Thursday 2:00-3:30 pm
+- **Location:** MAR 0.015
+- **Discussion:** 
+
+***
+
 <p align="center">
-  <img src="/assets/img/fu.png" height="50" />
-  <img src="/assets/img/hu.png" height="55" /> 
-  <img src="/assets/img/tu.png" height="55" />
-  <img src="/assets/img/charite.png" height="50" />
+  <img src="/assets/img/all_logos.png" height="160" />
 </p>
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.-->
