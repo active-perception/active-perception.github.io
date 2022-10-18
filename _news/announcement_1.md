@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-10-17 
 inline: true
 ---
 
-A simple inline announcement.
+October 20th class starts. 
+MAR 0.015 from 2:00pm to 3:30pm. :robot:
