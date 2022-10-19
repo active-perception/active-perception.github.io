@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Instructor</b> <a href=https://www.user.tu-berlin.de/pbideau/>Pia Bideau</a>. <b>Office</b> MAR 6.052. <b>Office hour</b> Friday 11am-12am.
+subtitle: <b>Instructor</b> <a href=https://www.user.tu-berlin.de/pbideau/>Pia Bideau</a>. <b>Office</b> MAR 6.052. <b>Office hour</b> Friday 11am-1pm.
 logo: Alle-H%C3%A4userlogos-Leiste_3000px.png
 
 profile:
@@ -24,7 +24,7 @@ Current computer vision methods aim at processing an entire image at once. Prior
 
 ***
 
-- **Time:** Thursday 2:00-3:30 pm
+- **Time:** Thursday 2:00-4:00 pm
 - **Location:** MAR 0.015
 - **Discussion:** 
 
