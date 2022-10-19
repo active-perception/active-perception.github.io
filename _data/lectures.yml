@@ -38,8 +38,19 @@
   readings: 
     - paper reading, probablistic models for alignment (<a href="https://people.cs.umass.edu/~elm/papers/PAMI_congeal.pdf">event alignment</a>, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_The_Spatio-Temporal_Poisson_Point_Process_A_Simple_Model_for_the_ICCV_2021_paper.pdf">congealing</a>)
   logistics:
-
+  
 - date: 11/17
+  lecturer: <a href="http://shibashintaro.com/">Shintaro Shiba</a>
+  title: >
+    <strong>Guest lecture</strong> <br />
+  slides: 
+  annotated:
+  video:
+  notes: 
+  readings:
+  logistics:
+
+- date: 11/24
   lecturer: Students and Pia
   title: >
     <strong>Fundamentals of Neural Networks</strong> <br />
@@ -52,17 +63,6 @@
     - paper reading, learning depth perception from motion (<a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Gordon_Depth_From_Videos_in_the_Wild_Unsupervised_Monocular_Depth_Learning_ICCV_2019_paper.pdf">monocular depth estimation</a>)
   logistics: >
     <span class="event">project proposal due</span>
-
-- date: 11/24
-  lecturer: 
-  title: >
-    <strong>Guest lecture</strong> <br />
-  slides: 
-  annotated:
-  video:
-  notes: 
-  readings:
-  logistics:
 
 - date: 12/1
   lecturer: Pia
@@ -124,7 +124,7 @@
   logistics:
 
 - date: 1/12
-  lecturer: Angelica Godinez
+  lecturer: <a href="https://www.scienceofintelligence.de/people/angelica-godinez/">Shintaro Shiba</a> 
   title: >
     <strong>Guest lecture</strong>
   slides: 
