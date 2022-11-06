@@ -73,8 +73,6 @@
   notes: 
   readings:
   logistics:
-  
-- title: "Module 2: Course Projects"
 
 - date: 12/8
   lecturer: 
@@ -87,13 +85,15 @@
   notes: 
   readings:
   - paper reading, learning depth perception from motion (<a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Gordon_Depth_From_Videos_in_the_Wild_Unsupervised_Monocular_Depth_Learning_ICCV_2019_paper.pdf">monocular depth estimation</a>)
-  logistics: >
-    <span class="event">project milestone due</span>
+  logistics:
+
+- title: "Module 2: Course Projects"
 
 - date: 12/15
   lecturer: Students and Pia
   title: >
     <strong>Review Session, Group Feedback</strong>
+    - Course Project Discussion
   slides: 
   annotated:
   video: 
