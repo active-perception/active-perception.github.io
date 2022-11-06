@@ -25,7 +25,7 @@ Current computer vision methods aim at processing an entire image at once. Prior
 ***
 
 - **Time:** Thursday 2:00-4:00 pm
-- **Location:** MAR 0.015
+- **Location:** MAR 5.006
 - **Discussion:** 
 
 ***

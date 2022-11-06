@@ -25,7 +25,7 @@ The class project is an opportunity for you to explore an interesting vision pro
 
 All write-ups should use the [CVPR style](http://cvpr2021.thecvf.com/sites/default/files/2020-09/cvpr2021AuthorKit_2.zip).
 
-#### proposal abstract and project milestone
+#### proposal abstract (and project milestone)
 You must turn in a brief `project proposal` abstract that provides an overview of your idea and also contains a brief survey of related work on the topic. We will provide a list of suggested project ideas for you to choose from, though you may discuss other project ideas with us, whether applied or theoretical.
 Proposal abstracts should be approximately one page long excluding references, and should include the following information:
 
