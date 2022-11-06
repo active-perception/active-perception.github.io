@@ -18,25 +18,22 @@
   lecturer: Pia
   title: >
     <strong>Cameras, Perspective and 3D Geometry</strong>
-  slides: 
+  slides: "https://docs.google.com/presentation/d/1GGyPJXp0C7NtyOQEEI5F1o4CXD2ZkwHefSJ1eB5N1Sk/edit?usp=sharing"
   annotated: 
   video: 
   notes: 
   readings:
-    - paper reading, active perception (<a href="https://aplab.bcs.rochester.edu/assets/download/PDFs/proceedings/AntonelliEtAl_%20ICVS13.pdf">depth estimation</a>, <a href="https://arxiv.org/pdf/2208.00487.pdf">structure from motion</a>, <a href="https://www.ece.nus.edu.sg/stfpage/eleclf/Active%20Visual%20Segmentation_TPAMI_2012.pdf">segmentation</a>)
   logistics:
 
 - date: 11/10
-  lecturer: Students and Pia
+  lecturer: Pia
   title: >
-    <strong>Probablistic modeling in Computer Vision</strong> <br />
-    - Paper discussion
+    <strong>Opical flow, Event-based vision</strong> <br />
   slides: 
   annotated: 
   video: 
   notes: 
   readings: 
-    - paper reading, probablistic models for alignment (<a href="https://people.cs.umass.edu/~elm/papers/PAMI_congeal.pdf">event alignment</a>, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_The_Spatio-Temporal_Poisson_Point_Process_A_Simple_Model_for_the_ICCV_2021_paper.pdf">congealing</a>)
   logistics:
   
 - date: 11/17
@@ -48,27 +45,28 @@
   video:
   notes: 
   readings:
+     - paper reading, event based vision (<a href="https://rpg.ifi.uzh.ch/docs/RAL16_Gallego.pdf">event alignment</a>, <a href="https://arxiv.org/pdf/2207.04007.pdf">event collapse</a>)
   logistics:
 
 - date: 11/24
   lecturer: Students and Pia
   title: >
-    <strong>Fundamentals of Neural Networks</strong> <br />
+    <strong>Probabilistic modeling in Computer Vision</strong> <br />
     - Paper discussion
   slides: 
   annotated: 
   video: 
   notes: 
   readings:
-    - paper reading, learning depth perception from motion (<a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Gordon_Depth_From_Videos_in_the_Wild_Unsupervised_Monocular_Depth_Learning_ICCV_2019_paper.pdf">monocular depth estimation</a>)
+    - paper reading, probablistic models for alignment (<a href="https://people.cs.umass.edu/~elm/papers/PAMI_congeal.pdf">congealing</a>, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_The_Spatio-Temporal_Poisson_Point_Process_A_Simple_Model_for_the_ICCV_2021_paper.pdf">event alignment</a>)
   logistics: >
     <span class="event">project proposal due</span>
 
 - date: 12/1
   lecturer: Pia
   title: >
-    <strong>Visualizing and understanding data/research results</strong> <br />
-    - python tools for visualization
+    <strong>Probabilistic modeling in Computer Vision</strong> <br />
+    - Paper discussion
   slides: 
   annotated: 
   video: 
@@ -80,12 +78,15 @@
 
 - date: 12/8
   lecturer: 
-  title: 
+  title: >
+    <strong>Fundamentals of Neural Networks</strong> <br />
+    - Paper discussion
   slides: 
   annotated: 
   video: 
   notes: 
   readings:
+  - paper reading, learning depth perception from motion (<a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Gordon_Depth_From_Videos_in_the_Wild_Unsupervised_Monocular_Depth_Learning_ICCV_2019_paper.pdf">monocular depth estimation</a>)
   logistics: >
     <span class="event">project milestone due</span>
 
@@ -102,12 +103,15 @@
 
 - date: 12/22
   lecturer: 
-  title: 
+  title: >
+    <strong>Visualizing and understanding data/research results</strong> <br />
+    - python tools for visualization
   slides: 
   annotated: 
   video: 
   notes: 
-  readings:
+  readings: 
+  - paper reading, active perception (<a href="https://aplab.bcs.rochester.edu/assets/download/PDFs/proceedings/AntonelliEtAl_%20ICVS13.pdf">depth estimation</a>, <a href="https://arxiv.org/pdf/2208.00487.pdf">structure from motion</a>, <a href="https://www.ece.nus.edu.sg/stfpage/eleclf/Active%20Visual%20Segmentation_TPAMI_2012.pdf">segmentation</a>)
   logistics: 
 
 - date: 12/29
