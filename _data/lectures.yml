@@ -45,20 +45,18 @@
   video:
   notes: 
   readings:
-     - paper reading, event based vision (<a href="https://rpg.ifi.uzh.ch/docs/RAL16_Gallego.pdf">event alignment</a>, <a href="https://arxiv.org/pdf/2207.04007.pdf">event collapse</a>)
   logistics:
 
 - date: 11/24
   lecturer: Students and Pia
   title: >
     <strong>Probabilistic modeling in Computer Vision</strong> <br />
-    - Paper discussion
+    - Project proposal discussion
   slides: 
   annotated: 
   video: 
   notes: 
   readings:
-    - paper reading, probablistic models for alignment (<a href="https://people.cs.umass.edu/~elm/papers/PAMI_congeal.pdf">congealing</a>, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_The_Spatio-Temporal_Poisson_Point_Process_A_Simple_Model_for_the_ICCV_2021_paper.pdf">event alignment</a>)
   logistics: >
     <span class="event">project proposal due</span>
 
@@ -72,46 +70,48 @@
   video: 
   notes: 
   readings:
+    - paper reading, probablistic models for alignment (<a href="https://people.cs.umass.edu/~elm/papers/PAMI_congeal.pdf">congealing</a>, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_The_Spatio-Temporal_Poisson_Point_Process_A_Simple_Model_for_the_ICCV_2021_paper.pdf">event alignment</a>)
   logistics:
+  
+- title: "Module 2: Course Projects"
 
 - date: 12/8
   lecturer: 
   title: >
-    <strong>Fundamentals of Neural Networks</strong> <br />
-    - Paper discussion
+    <strong>Course Project, Review Session</strong>
+    - Literature review: Paper discussion
   slides: 
   annotated: 
   video: 
   notes: 
   readings:
-  - paper reading, learning depth perception from motion (<a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Gordon_Depth_From_Videos_in_the_Wild_Unsupervised_Monocular_Depth_Learning_ICCV_2019_paper.pdf">monocular depth estimation</a>)
+  - paper reading, probablistic models for alignment (<a href="https://people.cs.umass.edu/~elm/papers/PAMI_congeal.pdf">congealing</a>, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_The_Spatio-Temporal_Poisson_Point_Process_A_Simple_Model_for_the_ICCV_2021_paper.pdf">event alignment</a>)
   logistics:
-
-- title: "Module 2: Course Projects"
 
 - date: 12/15
   lecturer: Students and Pia
   title: >
-    <strong>Review Session, Group Feedback</strong>
-    - Course Project Discussion
+    <strong>Course Project, Review Session</strong>
+    - Literature review: Paper discussion
   slides: 
   annotated:
   video: 
   notes: 
   readings:
+  - paper reading, active perception (<a href="https://aplab.bcs.rochester.edu/assets/download/PDFs/proceedings/AntonelliEtAl_%20ICVS13.pdf">depth estimation</a>, <a href="https://arxiv.org/pdf/2208.00487.pdf">structure from motion</a>)
   logistics:
 
 - date: 12/22
   lecturer: 
   title: >
-    <strong>Visualizing and understanding data/research results</strong> <br />
-    - python tools for visualization
+    <strong>Course Project, Review Session</strong>
+    - Literature review: Paper discussion
   slides: 
   annotated: 
   video: 
   notes: 
   readings: 
-  - paper reading, active perception (<a href="https://aplab.bcs.rochester.edu/assets/download/PDFs/proceedings/AntonelliEtAl_%20ICVS13.pdf">depth estimation</a>, <a href="https://arxiv.org/pdf/2208.00487.pdf">structure from motion</a>, <a href="https://www.ece.nus.edu.sg/stfpage/eleclf/Active%20Visual%20Segmentation_TPAMI_2012.pdf">segmentation</a>)
+  - paper reading, active perception (<a href="https://aplab.bcs.rochester.edu/assets/download/PDFs/proceedings/AntonelliEtAl_%20ICVS13.pdf">depth estimation</a>, <a href="https://arxiv.org/pdf/2208.00487.pdf">structure from motion</a>)
   logistics: 
 
 - date: 12/29
@@ -119,7 +119,9 @@
 
 - date: 1/5
   lecturer: 
-  title: 
+  title: >
+    <strong>Course Project, Review Session</strong>
+    - Literature review: Paper discussion
   slides: 
   annotated: 
   video: 
@@ -140,27 +142,35 @@
 
 - date: 1/19
   lecturer: 
-  title: 
+  title: >
+    <strong>Fundamentals of Neural Networks</strong> <br />
+    - Paper discussion
   slides: 
   annotated: 
   video: 
   notes: 
   readings:
+  - paper reading, learning depth perception from motion (<a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Gordon_Depth_From_Videos_in_the_Wild_Unsupervised_Monocular_Depth_Learning_ICCV_2019_paper.pdf">monocular depth estimation</a>)
   logistics:
 
 - date: 1/26
   lecturer: 
-  title: 
+  title: >
+    <strong>Course Project, Review Session</strong>
+    - Literature review: Paper discussion
   slides: 
   annotated: 
   video: 
   notes:
   readings:
+  - paper reading, angular velocity estimation with an event camera (<a href="https://rpg.ifi.uzh.ch/docs/RAL16_Gallego.pdf">angular velocity estimation</a>)
   logistics:
 
 - date: 2/2
   lecturer: 
-  title: 
+  title: >
+    <strong>Visualizing and understanding data/research results</strong> <br />
+    - python tools for visualization
   slides: 
   annotated: 
   video: 
