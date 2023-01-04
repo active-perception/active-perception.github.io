@@ -48,7 +48,7 @@
   logistics:
 
 - date: 11/24
-  lecturer: Students and Pia
+  lecturer: Pia
   title: >
     <strong>Probabilistic modeling in Computer Vision</strong> <br />
     - Project proposal discussion
@@ -76,7 +76,7 @@
 - title: "Module 2: Course Projects"
 
 - date: 12/8
-  lecturer: 
+  lecturer: Students and Pia
   title: >
     <strong>Course Project, Review Session</strong>
     - Literature review: Paper discussion
@@ -102,23 +102,21 @@
   logistics:
 
 - date: 12/22
-  lecturer: 
+  lecturer: Students and Pia
   title: >
-    <strong>Course Project, Review Session</strong>
-    - Literature review: Paper discussion
+    <strong>Q&A via zoom</strong>
   slides: 
   annotated: 
   video: 
   notes: 
   readings: 
-  - paper reading, active perception (<a href="https://aplab.bcs.rochester.edu/assets/download/PDFs/proceedings/AntonelliEtAl_%20ICVS13.pdf">depth estimation</a>, <a href="https://arxiv.org/pdf/2208.00487.pdf">structure from motion</a>)
   logistics: 
 
 - date: 12/29
   title: No class (winter break)
 
 - date: 1/5
-  lecturer: 
+  lecturer: Students and Pia
   title: >
     <strong>Course Project, Review Session</strong>
     - Literature review: Paper discussion
@@ -127,47 +125,49 @@
   video: 
   notes: 
   readings:
+  - paper reading, active perception (<a href="https://aplab.bcs.rochester.edu/assets/download/PDFs/proceedings/AntonelliEtAl_%20ICVS13.pdf">depth estimation</a>, <a href="https://arxiv.org/pdf/2208.00487.pdf">structure from motion</a>)
   logistics:
 
 - date: 1/12
-  lecturer: <a href="https://www.scienceofintelligence.de/people/angelica-godinez/">Angelica Godinez</a> 
+  lecturer: Students and Pia
   title: >
-    <strong>Guest lecture</strong>
-  slides: 
-  annotated: 
-  video: 
-  notes: 
-  readings:
-  logistics:
-
-- date: 1/19
-  lecturer: 
-  title: >
-    <strong>Fundamentals of Neural Networks</strong> <br />
-    - Paper discussion
+    <strong>Course Project, Review Session</strong>
+    - Literature review: Paper discussion
   slides: 
   annotated: 
   video: 
   notes: 
   readings:
   - paper reading, learning depth perception from motion (<a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Gordon_Depth_From_Videos_in_the_Wild_Unsupervised_Monocular_Depth_Learning_ICCV_2019_paper.pdf">monocular depth estimation</a>)
-  logistics:
+  logistics: >
+    <span class="event">project milestone presentation - distance estimation</span>
 
-- date: 1/26
-  lecturer: 
+- date: 1/19
+  lecturer: Students and Pia
   title: >
     <strong>Course Project, Review Session</strong>
     - Literature review: Paper discussion
   slides: 
   annotated: 
   video: 
-  notes:
+  notes: 
   readings:
   - paper reading, angular velocity estimation with an event camera (<a href="https://rpg.ifi.uzh.ch/docs/RAL16_Gallego.pdf">angular velocity estimation</a>)
+  logistics: 
+
+- date: 1/26
+  lecturer: <a href="https://www.scienceofintelligence.de/people/angelica-godinez/">Angelica Godinez</a>
+  title: >
+    <strong>Guest lecture</strong>
+  slides: 
+  annotated: 
+  video: 
+  notes:
+  readings:
   logistics:
 
 - date: 2/2
-  lecturer: 
+  lecturer: Pia
   title: >
     <strong>Visualizing and understanding data/research results</strong> <br />
     - python tools for visualization
@@ -179,7 +179,7 @@
   logistics:
 
 - date: 2/9
-  lecturer: 
+  lecturer: Pia
   title: 
   slides: 
   annotated: 
