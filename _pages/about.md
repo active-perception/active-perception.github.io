@@ -20,7 +20,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Current computer vision methods aim at processing an entire image at once. Prior work however has shown that the approach “one image at once” might not be the most effective. Instead, biological vision explores a scene while consecutively fixating on different regions in the scene. How does such active scene exploration lead to an improved understanding of objects and their relative locations? In this research group we will revise existing computer vision strategies for depth perception based on frame-based videos and event camera data. We then take ideas from biological vision to build a system that extracts depth information (distance between observer and object) through distinct motion behaviors.
+<!--Current computer vision methods aim at processing an entire image at once. Prior work however has shown that the approach “one image at once” might not be the most effective. Instead, biological vision explores a scene while consecutively fixating on different regions in the scene. How does such active scene exploration lead to an improved understanding of objects and their relative locations? In this research group we will revise existing computer vision strategies for depth perception based on frame-based videos and event camera data. We then take ideas from biological vision to build a system that extracts depth information (distance between observer and object) through distinct motion behaviors.-->
+Current computer vision methods aim at processing an entire image at once. Prior work however has shown that the approach “one image at once” might not be the most effective. Instead, biological vision explores a scene while consecutively fixating on different regions in the scene. In the first course session (Active Perception I) we revised existing computer vision strategies for depth perception based on frame-based videos and event camera data. In this follow-up course we will develop algorithms that explore the scene - object by object to get a more complete understanding of the entire screen.
+
+Therefore we will first rely on predefined segmentation masks and towards the end of the class we aim at removing these constrains and automatically determine regions of interest (regions of showing independent motion/or regions at different depths).
+
+It might be helpful if you attended the course Active Perception I - however this is not needed. You should bring excellent coding skills (python/c++) and a good background of the fundamentals in robotics and computer vision.
 
 ***
 

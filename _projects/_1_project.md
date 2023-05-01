@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: Object Distance via Alignment
+description: A project implemented on a Lego Mindstorm Robot
+img: assets/img/p1-legorobot.jpg
+redirect: https://github.com/r9-pena/ActivePerception
+importance: 3
 category: work
 ---
 
