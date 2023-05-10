@@ -1,31 +1,28 @@
 - title: "Module 1: Introduction, Theory and Literature Review"
 
-- date: 10/20
+- date: 04/27
   lecturer: Pia
   title: >
     <strong>Introduction to Computer Vision, Course Logistics</strong>
-  slides: "https://docs.google.com/presentation/d/1sbAcc-JB6Z_YsZF1g7Ub7QR7EKFZDWknNEHoYG-ntl4/edit?usp=sharing"
+  slides: "https://docs.google.com/presentation/d/17seu7tojAEPjE9bGGfMIjcI4wgwKYPWXKYu08W4eI_M/edit?usp=sharing"
   annotated: 
   video: 
   notes: 
   readings:
   logistics:
 
-- date: 10/27
-  title: No class
-
-- date: 11/03
+- date: 05/04
   lecturer: Pia
   title: >
     <strong>Cameras, Perspective and 3D Geometry</strong>
-  slides: "https://docs.google.com/presentation/d/1GGyPJXp0C7NtyOQEEI5F1o4CXD2ZkwHefSJ1eB5N1Sk/edit?usp=sharing"
+  slides: "https://docs.google.com/presentation/d/1GGyPJXp0C7NtyOQEEI5F1o4CXD2ZkwHefSJ1eB5N1Sk/edit#slide=id.g179ff241a6e_0_0"
   annotated: 
   video: 
   notes: 
   readings:
   logistics:
 
-- date: 11/10
+- date: 05/11
   lecturer: Pia
   title: >
     <strong>Opical flow, Event-based vision</strong> <br />
@@ -34,12 +31,17 @@
   video: 
   notes: 
   readings: 
-  logistics:
+  logistics: >
+    <span class="event">project proposal due</span>
   
-- date: 11/17
-  lecturer: <a href="http://shibashintaro.com/">Shintaro Shiba</a>
+- date: 05/18
+  title: No class
+  
+- date: 05/25
+  lecturer: Pia
   title: >
-    <strong>Guest lecture</strong> <br />
+    <strong>Probabilistic modeling in Computer Vision</strong> <br />
+    - Project proposal presentation (15min) and discussion
   slides: 
   annotated:
   video:
@@ -47,35 +49,22 @@
   readings:
   logistics:
 
-- date: 11/24
+- date: 06/01
   lecturer: Pia
   title: >
-    <strong>Probabilistic modeling in Computer Vision</strong> <br />
-    - Project proposal discussion
-  slides: 
-  annotated: 
-  video: 
-  notes: 
-  readings:
-  logistics: >
-    <span class="event">project proposal due</span>
-
-- date: 12/1
-  lecturer: Pia
-  title: >
-    <strong>Probabilistic modeling in Computer Vision</strong> <br />
+    <strong>Introduction into Neural Networks</strong> <br />
     - Paper discussion
   slides: 
   annotated: 
   video: 
   notes: 
   readings:
-    - paper reading, probablistic models for alignment (<a href="https://people.cs.umass.edu/~elm/papers/PAMI_congeal.pdf">congealing</a>, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_The_Spatio-Temporal_Poisson_Point_Process_A_Simple_Model_for_the_ICCV_2021_paper.pdf">event alignment</a>)
-  logistics:
+    - paper reading, EVIMO - an event camera dataset (<a href="https://arxiv.org/pdf/2205.03467.pdf">paper</a>)
+  logistics: 
   
 - title: "Module 2: Course Projects"
 
-- date: 12/8
+- date: 06/08
   lecturer: Students and Pia
   title: >
     <strong>Course Project, Review Session</strong>
@@ -85,10 +74,23 @@
   video: 
   notes: 
   readings:
-  - paper reading, probablistic models for alignment (<a href="https://people.cs.umass.edu/~elm/papers/PAMI_congeal.pdf">congealing</a>, <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_The_Spatio-Temporal_Poisson_Point_Process_A_Simple_Model_for_the_ICCV_2021_paper.pdf">event alignment</a>)
+    - paper reading, probablistic models for alignment - getting sharp contours from events (<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_The_Spatio-Temporal_Poisson_Point_Process_A_Simple_Model_for_the_ICCV_2021_paper.pdf">paper</a>)
   logistics:
 
-- date: 12/15
+- date: 06/15
+  lecturer: Students and Pia
+  title: >
+    <strong>Course Project, Review Session</strong>
+    - Literature review: Paper discussion
+  slides: 
+  annotated: 
+  video: 
+  notes: 
+  readings: 
+  logistics: >
+    <span class="event">project milestone presentation</span>
+
+- date: 06/22
   lecturer: Students and Pia
   title: >
     <strong>Course Project, Review Session</strong>
@@ -98,37 +100,36 @@
   video: 
   notes: 
   readings:
-  - paper reading, active perception (<a href="https://aplab.bcs.rochester.edu/assets/download/PDFs/proceedings/AntonelliEtAl_%20ICVS13.pdf">depth estimation</a>, <a href="https://arxiv.org/pdf/2208.00487.pdf">structure from motion</a>)
+    - paper reading, learning distance estimation RGB images (<a href="https://pjreddie.com/media/files/papers/YOLOv3.pdf">paper 1</a>, <a href="https://www.mdpi.com/2076-3417/12/3/1354">paper 2</a>)
   logistics:
 
-- date: 12/22
+- date: 06/29
   lecturer: Students and Pia
   title: >
-    <strong>Q&A via zoom</strong>
+    <strong>Course Project, Review Session</strong>
+    - Literature review: Paper discussion
   slides: 
   annotated: 
   video: 
   notes: 
-  readings: 
+  readings:
+    - paper reading, learning distance estimation from events (<a href="https://rpg.ifi.uzh.ch/docs/3DV20_Hidalgo.pdf">paper</a>)
   logistics: 
 
-- date: 12/29
-  title: No class (winter break)
-
-- date: 1/5
+- date: 07/06
   lecturer: Students and Pia
   title: >
     <strong>Course Project, Review Session</strong>
     - Literature review: Paper discussion
   slides: 
-  annotated: 
+  annotated:
   video: 
   notes: 
   readings:
-  - paper reading, active perception (<a href="https://aplab.bcs.rochester.edu/assets/download/PDFs/proceedings/AntonelliEtAl_%20ICVS13.pdf">depth estimation</a>, <a href="https://arxiv.org/pdf/2208.00487.pdf">structure from motion</a>)
+    - paper reading, semantic segmentation (<a href="https://rpg.ifi.uzh.ch/docs/ECCV22_Sun.pdf">paper</a>)
   logistics:
 
-- date: 1/12
+- date: 07/13
   lecturer: Students and Pia
   title: >
     <strong>Course Project, Review Session</strong>
@@ -138,49 +139,14 @@
   video: 
   notes: 
   readings:
-  - paper reading, learning depth perception from motion (<a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Gordon_Depth_From_Videos_in_the_Wild_Unsupervised_Monocular_Depth_Learning_ICCV_2019_paper.pdf">monocular depth estimation</a>)
-  logistics: >
-    <span class="event">project milestone presentation - distance estimation</span>
-
-- date: 1/19
-  lecturer: Students and Pia
-  title: >
-    <strong>Course Project, Review Session</strong>
-    - Literature review: Paper discussion
-  slides: 
-  annotated: 
-  video: 
-  notes: 
-  readings:
-  - paper reading, angular velocity estimation with an event camera (<a href="https://rpg.ifi.uzh.ch/docs/RAL16_Gallego.pdf">angular velocity estimation</a>)
+    - paper reading, semantic segmentation (<a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Acuna_Devil_Is_in_the_Edges_Learning_Semantic_Boundaries_From_Noisy_CVPR_2019_paper.pdf">paper</a>)
   logistics: 
 
-- date: 1/26
-  lecturer: <a href="https://www.scienceofintelligence.de/people/angelica-godinez/">Angelica Godinez</a>
+- date: 07/20
+  lecturer: Students and Pia
   title: >
-    <strong>Guest lecture</strong>
-  slides: 
-  annotated: 
-  video: 
-  notes:
-  readings:
-  logistics:
-
-- date: 2/2
-  lecturer: Pia
-  title: >
-    <strong>Visualizing and understanding data/research results</strong> <br />
-    - python tools for visualization
-  slides: 
-  annotated: 
-  video: 
-  notes: 
-  readings:
-  logistics:
-
-- date: 2/9
-  lecturer: Pia
-  title: 
+    <strong>Course Project, Review Session</strong>
+    - Literature review: Paper discussion
   slides: 
   annotated: 
   video: 
@@ -189,12 +155,13 @@
   logistics: >
     <span class="event">final class project due</span>
 
-- date: 2/16
-  lecturer: 
+- date: 07/27
+  lecturer: Students and Pia
   title: 
   slides: 
-  annotated:
+  annotated: 
   video: 
-  notes: 
+  notes:
   readings:
-  logistics: 
+  logistics: >
+    <span class="event">final class project due</span>

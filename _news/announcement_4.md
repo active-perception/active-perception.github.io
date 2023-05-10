@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2022-11-23 
+date: 2023-10-05 
 inline: true
 --- 
 
-`Project proposals are due tomorrow night 23:59.` Please send those to me via eMail! <br />
-We will discuss your plan tomorrow during the class.
+`Project proposals are due May 15th, 23:59.` Please send those to me via eMail and use the template linked under logistics! <br />
