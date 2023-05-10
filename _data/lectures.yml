@@ -75,7 +75,10 @@
   notes: 
   readings:
     - paper reading, probablistic models for alignment - getting sharp contours from events (<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_The_Spatio-Temporal_Poisson_Point_Process_A_Simple_Model_for_the_ICCV_2021_paper.pdf">paper</a>)
-  logistics:
+  logistics: 
+  
+- title: "Module 2: Course Projects"
+
 
 - date: 06/15
   lecturer: Students and Pia
@@ -112,7 +115,7 @@
   annotated: 
   video: 
   notes: 
-  readings:
+  readings: 
     - paper reading, learning distance estimation from events (<a href="https://rpg.ifi.uzh.ch/docs/3DV20_Hidalgo.pdf">paper</a>)
   logistics: 
 
@@ -142,18 +145,20 @@
     - paper reading, semantic segmentation (<a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Acuna_Devil_Is_in_the_Edges_Learning_Semantic_Boundaries_From_Noisy_CVPR_2019_paper.pdf">paper</a>)
   logistics: 
 
+
 - date: 07/20
   lecturer: Students and Pia
   title: >
     <strong>Course Project, Review Session</strong>
     - Literature review: Paper discussion
   slides: 
-  annotated: 
+  annotated:
   video: 
   notes: 
   readings:
   logistics: >
     <span class="event">final class project due</span>
+
 
 - date: 07/27
   lecturer: Students and Pia
@@ -163,5 +168,4 @@
   video: 
   notes:
   readings:
-  logistics: >
-    <span class="event">final class project due</span>
+  logistics: 
